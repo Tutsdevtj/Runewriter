@@ -12,6 +12,8 @@ public class PlayerLogic : MonoBehaviour
 
     [SerializeField] private int totalJump = 2;
 
+    [SerializeField] private float atkDamage = 10f;
+
     private bool isGroundCheck;
 
     private int jumpLess;
@@ -28,6 +30,7 @@ public class PlayerLogic : MonoBehaviour
     [SerializeField] private float cameraSpeed;
     [SerializeField] private float jumpForce = 7f;
     private bool isDirectionRight = true;
+
     void Start()
     {
 
@@ -39,6 +42,7 @@ public class PlayerLogic : MonoBehaviour
     void Update()
     {
         GetInputMove();
+        GetAttackMove();
         DirectionCheck();
         CanJump();
         MoveAnim();
@@ -103,8 +107,14 @@ public class PlayerLogic : MonoBehaviour
         transform.Rotate(0f, 180f, 0f);
     }
 
+    void GetAttackMove() {
+        if (Input.GetButtonDown("Fire1")) 
+        {
+            anim.SetBool("isAttacking", true);
+        }
+    }
 
-  void GetInputMove()
+    void GetInputMove()
     {
         inputDirection = Input.GetAxisRaw("Horizontal"); 
 
