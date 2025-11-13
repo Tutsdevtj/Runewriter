@@ -20,17 +20,21 @@ public class PlayerLogic : MonoBehaviour
 
     private bool canJump;
 
+
     [SerializeField] private Animator anim;
     private float inputDirection;
     private Rigidbody2D rb2d;
-
+private float lastAttackTime = 0f;
+[SerializeField] private float comboResetTime = 0.5f;
     [SerializeField] private Transform look;
     [SerializeField] private Transform cameraTarget;
 
     [SerializeField] private float cameraSpeed;
     [SerializeField] private float jumpForce = 7f;
     private bool isDirectionRight = true;
-
+    private float lastResetTime = -1f;
+    [SerializeField] private float inputLockoutDuration = 0.1f;
+    private int comboStep = 0;
     void Start()
     {
 
@@ -42,6 +46,11 @@ public class PlayerLogic : MonoBehaviour
     void Update()
     {
         GetInputMove();
+
+        if (Time.time - lastAttackTime > comboResetTime && comboStep != 0)
+    {
+        ResetCombo();
+    }
         GetAttackMove();
         DirectionCheck();
         CanJump();
@@ -107,12 +116,67 @@ public class PlayerLogic : MonoBehaviour
         transform.Rotate(0f, 180f, 0f);
     }
 
-    void GetAttackMove() {
-        if (Input.GetButtonDown("Fire1")) 
+
+    void timerAttackReset()
+    {
+        Invoke("ResetAttack", 0.25f);
+    }
+
+    void GetAttackMove()
+    {
+    
+        if (Time.time - lastResetTime < inputLockoutDuration)
+    {
+        return;
+    }
+
+    if (Input.GetButtonUp("Fire1") && !isGroundCheck)
+    {
+        anim.SetBool("isAttackingOnJump", true);
+    }
+
+    if (Input.GetButtonDown("Fire1") && isGroundCheck && !anim.GetBool("isAttackingOnJump"))
+    {
+
+       
+
+        if (comboStep == 0)
         {
-            anim.SetBool("isAttacking", true);
+            anim.SetTrigger("Attack1");
+                comboStep = 1;
+             lastAttackTime = Time.time;
+        }
+        else if (comboStep == 1)
+        {
+            anim.SetTrigger("Attack2");
+                comboStep = 2;
+             lastAttackTime = Time.time;
+        }
+        else if (comboStep == 2)
+        {
+            anim.SetTrigger("Attack3");
+                comboStep = 3; 
+             lastAttackTime = Time.time;
         }
     }
+
+
+    }
+
+  public void ResetCombo()
+{
+        comboStep = 0;
+        anim.ResetTrigger("Attack1");
+        anim.ResetTrigger("Attack2");
+        anim.ResetTrigger("Attack3");
+
+        lastResetTime = Time.time;
+
+}
+public void ResetAirAttack()
+{
+    anim.SetBool("isAttackingOnJump", false);
+}
 
     void GetInputMove()
     {
