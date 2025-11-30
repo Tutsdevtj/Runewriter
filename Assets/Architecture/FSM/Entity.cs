@@ -20,7 +20,7 @@ public class Entity : MonoBehaviour
     [SerializeField] private Transform primaryWallCheck;
     [SerializeField] private Transform secondaryWallCheck;
     public bool groundDetected { get; private set; }
-    public bool wallDetected { get; private set; }
+    [SerializeField]public bool wallDetected { get; private set; }
 
     protected virtual void Awake()
     {
@@ -41,6 +41,8 @@ public class Entity : MonoBehaviour
 
     private void Update()
     {
+        if(wallDetected)
+            Debug.Log("Wall Detected");
         HandleCollisionDetection();
         stateMachine.UpdateActiveState();
     }

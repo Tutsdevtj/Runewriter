@@ -14,7 +14,7 @@ public class Player_AiredState : EntityState
         if (player.moveInput.x != 0)
              player.SetVelocity(player.moveInput.x * (player.moveSpeed * player.inAirMoveMultiplier), rb.linearVelocity.y);
 
-        if (input.Player.Jump.WasPressedThisFrame() && player.canDoubleJump)
+        if (input.Player.Jump.WasPressedThisFrame() && player.canDoubleJump && player.wallDetected == false)
     {
         player.canDoubleJump = false;
         

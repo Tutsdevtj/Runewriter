@@ -164,7 +164,7 @@ GameObject:
   - component: {fileID: 53362932}
   - component: {fileID: 53362931}
   - component: {fileID: 53362930}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Parede
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16854,7 +16854,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   groundCheckDistance: 1.12
-  wallCheckDistance: 0.42
+  wallCheckDistance: 0.5
   whatIsGround:
     serializedVersion: 2
     m_Bits: 64
