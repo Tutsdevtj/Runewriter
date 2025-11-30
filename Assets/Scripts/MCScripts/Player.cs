@@ -66,7 +66,6 @@ public class Player : Entity
         jumpAttackState = new Player_JumpAttackState(this, stateMachine, "jumpAttack");
         fallState = new Player_FallState(this, stateMachine, "jumpFall");
         wallSlideState = new Player_WallSlideState(this, stateMachine, "wallSlide");
-       
         dashState = new Player_DashState(this, stateMachine, "dash");
         basicAttackState = new Player_BasicAttackState(this, stateMachine, "basicAttack");
     }
