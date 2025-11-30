@@ -10,6 +10,10 @@ public class Player_GroundedState : Player_AiredState
     {
         base.Update();
 
+        player.canDash = true;
+        player.canDoubleJump = true;
+        player.canJumpAttack = true;
+
         if (rb.linearVelocity.y < 0 && player.groundDetected == false)
             stateMachine.ChangeState(player.fallState);
 

@@ -36,9 +36,10 @@ public abstract class EntityState
         stateTimer -= Time.deltaTime;
         anim.SetFloat("yVelocity", rb.linearVelocity.y);
 
-        if(input.Player.Dash.WasPressedThisFrame())
+        if(input.Player.Dash.WasPressedThisFrame() && player.canDash && CanDash())
         {
             stateMachine.ChangeState(player.dashState);
+            player.canDash = false;
         }
     }
 

@@ -15,7 +15,7 @@ public class Player_DashState : EntityState
 
         dashDir = player.moveInput.x != 0 ? ((int)player.moveInput.x) : player.facingDir;
         stateTimer = player.dashDuration;
-
+        
         originalGravityScale = rb.gravityScale;
         rb.gravityScale = 0;
     }
