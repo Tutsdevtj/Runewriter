@@ -12,7 +12,7 @@ public class Player_DashState : PlayerState
     public override void Enter()
     {
         base.Enter();
-
+        player.canDash = false;
         dashDir = player.moveInput.x != 0 ? ((int)player.moveInput.x) : player.facingDir;
         stateTimer = player.dashDuration;
         

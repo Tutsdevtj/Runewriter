@@ -3,25 +3,24 @@ using UnityEngine;
 
 public class Player : Entity
 {
-   public PlayerInputSet input { get; private set; }
+    public PlayerInputSet input { get; private set; }
 
-   public Player_IdleState idleState { get; private set; }
+    public Player_IdleState idleState { get; private set; }
     public Player_MoveState moveState { get; private set; }
     public Player_JumpState jumpState { get; private set; }
-    public Player_JumpState doubleJumpState { get; private set; }
-    public Player_JumpAttackState jumpAttackState { get; private set; }
     public Player_FallState fallState { get; private set; }
     public Player_WallSlideState wallSlideState { get; private set; }
-   
+    // public Player_WallJumpState wallJumpState { get; private set; }
     public Player_DashState dashState { get; private set; }
     public Player_BasicAttackState basicAttackState { get; private set; }
+    public Player_JumpAttackState jumpAttackState { get; private set; }
+    public Player_JumpState doubleJumpState { get; private set; }
 
-    
     [Header("Attack details")]
     public Vector2[] attackVelocity;
     public Vector2 jumpAttackVelocity;
     public float attackVelocityDuration = .1f;
-    public float comboResetTime = 1;
+    public float comboResetTime = 0.3f;
     private Coroutine queuedAttackCo;
 
 
@@ -29,61 +28,44 @@ public class Player : Entity
     [Header("Movement details")]
     public float moveSpeed;
     public float jumpForce = 5;
-    public bool canDoubleJump; 
-    public bool canJumpAttack;
-    public bool canDash;
     public Vector2 wallJumpForce;
-
-    [Range(0,1)]
-    public float inAirMoveMultiplier = .7f; // Should be from 0 to 1;
-    [Range(0,1)]
+    [Range(0, 1)]
+    public float inAirMoveMultiplier = .7f; 
+    [Range(0, 1)]
     public float wallSlideSlowMultiplier = .7f;
     [Space]
-    public float dashDuration = .25f;
-    public float dashSpeed = 20;
-
+    public float dashDuration = .35f;
+    public float dashSpeed = 12;
     public Vector2 moveInput { get; private set; }
 
+    public bool canDoubleJump { get; set; }
+    public bool canJumpAttack { get; set; }
 
-    protected override void Start()
-    {
-        base.Start();
-
-        stateMachine.Initialize(idleState);
-    }
+    public bool canDash { get; set; }
 
     protected override void Awake()
     {
         base.Awake();
 
-         input = new PlayerInputSet();
-
-
+        input = new PlayerInputSet();
         idleState = new Player_IdleState(this, stateMachine, "idle");
         moveState = new Player_MoveState(this, stateMachine, "move");
         jumpState = new Player_JumpState(this, stateMachine, "jumpFall");
         doubleJumpState = new Player_JumpState(this, stateMachine, "doubleJump");
-        jumpAttackState = new Player_JumpAttackState(this, stateMachine, "jumpAttack");
         fallState = new Player_FallState(this, stateMachine, "jumpFall");
         wallSlideState = new Player_WallSlideState(this, stateMachine, "wallSlide");
         dashState = new Player_DashState(this, stateMachine, "dash");
         basicAttackState = new Player_BasicAttackState(this, stateMachine, "basicAttack");
+        jumpAttackState = new Player_JumpAttackState(this, stateMachine, "jumpAttack");
     }
 
-     private void OnEnable()
+    protected override void Start()
     {
-        input.Enable();
-
-        input.Player.Movement.performed += ctx => moveInput = ctx.ReadValue<Vector2>();
-        input.Player.Movement.canceled += ctx => moveInput = Vector2.zero;
+        base.Start();
+        stateMachine.Initialize(idleState);
     }
 
-    private void OnDisable()
-    {
-        input.Disable();
-    }
-
-       public void EnterAttackStateWithDelay()
+    public void EnterAttackStateWithDelay()
     {
         if (queuedAttackCo != null)
             StopCoroutine(queuedAttackCo);
@@ -97,5 +79,16 @@ public class Player : Entity
         stateMachine.ChangeState(basicAttackState);
     }
 
+    private void OnEnable()
+    {
+        input.Enable();
 
+        input.Player.Movement.performed += ctx => moveInput = ctx.ReadValue<Vector2>();
+        input.Player.Movement.canceled += ctx => moveInput = Vector2.zero;
+    }
+
+    private void OnDisable()
+    {
+        input.Disable();
+    }
 }

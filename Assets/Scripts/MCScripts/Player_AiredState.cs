@@ -11,16 +11,16 @@ public class Player_AiredState : PlayerState
     {
         base.Update();
 
-        if (player.moveInput.x != 0)
+        if (player.moveInput.x != 0f)
              player.SetVelocity(player.moveInput.x * (player.moveSpeed * player.inAirMoveMultiplier), rb.linearVelocity.y);
 
-        if (input.Player.Jump.WasPressedThisFrame() && player.canDoubleJump && player.wallDetected == false)
+        if (input.Player.Jump.WasPressedThisFrame() && player.canDoubleJump)
     {
         player.canDoubleJump = false;
         
         
         stateMachine.ChangeState(player.doubleJumpState);
-        return;
+    
     }
 
 

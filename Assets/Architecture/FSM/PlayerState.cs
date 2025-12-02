@@ -36,6 +36,9 @@ public abstract class PlayerState : EntityState
         if (stateMachine.currentState == player.dashState)
             return false;
 
+        if (!player.canDash)
+            return false;
+
         return true;
     }
 }

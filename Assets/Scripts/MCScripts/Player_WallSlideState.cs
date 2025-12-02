@@ -1,4 +1,4 @@
-using UnityEngine;
+ using UnityEngine;
 
 public class Player_WallSlideState : PlayerState
 {
@@ -12,13 +12,18 @@ public class Player_WallSlideState : PlayerState
         HandleWallSlide();
 
 
+        // if (input.Player.Jump.WasPressedThisFrame())
+        //     stateMachine.ChangeState(player.wallJumpState);
+
         if (player.wallDetected == false)
             stateMachine.ChangeState(player.fallState);
 
         if (player.groundDetected)
         {
             stateMachine.ChangeState(player.idleState);
-            player.Flip();
+
+            if(player.facingDir != player.moveInput.x)
+                player.Flip();
         }
     }
 
