@@ -12,6 +12,7 @@ public class PlayerLogic : MonoBehaviour
 
     [SerializeField] private int totalJump = 2;
 
+    [SerializeField] private float atkDamage = 10f;
 
     private bool isGroundCheck;
 
