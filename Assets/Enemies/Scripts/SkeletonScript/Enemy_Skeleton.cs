@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Enemy_Skeleton : Enemy
+public class Enemy_Skeleton : Enemy 
 {
 
     protected override void Awake()
@@ -11,6 +11,7 @@ public class Enemy_Skeleton : Enemy
         moveState = new Enemy_MoveState(this, stateMachine, "move");
         attackState = new Enemy_AttackState(this, stateMachine, "attack");
         battleState = new Enemy_BattleState(this, stateMachine, "battle");
+        deadState = new Enemy_DeadState(this, stateMachine, "death");
     }
 
     protected override void Start()
@@ -19,4 +20,7 @@ public class Enemy_Skeleton : Enemy
 
         stateMachine.Initialize(idleState);
     }
+
+  
+
 }
