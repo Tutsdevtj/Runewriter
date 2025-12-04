@@ -1,0 +1,3055 @@
+fileFormatVersion: 2
+guid: 638747fc040104b4dbba8f83eefc0a15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -541782507531093159
+    second: Swamp Kingdom - Tileset_0
+  - first:
+      213: -3560799739798751857
+    second: Swamp Kingdom - Tileset_1
+  - first:
+      213: 8384097160016966707
+    second: Swamp Kingdom - Tileset_2
+  - first:
+      213: 7972629530916483347
+    second: Swamp Kingdom - Tileset_3
+  - first:
+      213: -2053890516902289415
+    second: Swamp Kingdom - Tileset_4
+  - first:
+      213: -5053976364818023258
+    second: Swamp Kingdom - Tileset_5
+  - first:
+      213: 7903869587831746689
+    second: Swamp Kingdom - Tileset_6
+  - first:
+      213: 7079287783486315210
+    second: Swamp Kingdom - Tileset_7
+  - first:
+      213: -3725591827789551102
+    second: Swamp Kingdom - Tileset_8
+  - first:
+      213: 4528161683774835462
+    second: Swamp Kingdom - Tileset_9
+  - first:
+      213: 9174228643825400106
+    second: Swamp Kingdom - Tileset_10
+  - first:
+      213: 6714115273925061514
+    second: Swamp Kingdom - Tileset_11
+  - first:
+      213: 1395426640143543035
+    second: Swamp Kingdom - Tileset_12
+  - first:
+      213: 8487385031412610455
+    second: Swamp Kingdom - Tileset_13
+  - first:
+      213: -5199852540235459264
+    second: Swamp Kingdom - Tileset_14
+  - first:
+      213: -2437042408348917952
+    second: Swamp Kingdom - Tileset_15
+  - first:
+      213: 370925745875700020
+    second: Swamp Kingdom - Tileset_16
+  - first:
+      213: -3938036344467523473
+    second: Swamp Kingdom - Tileset_17
+  - first:
+      213: 410103411203953336
+    second: Swamp Kingdom - Tileset_18
+  - first:
+      213: -8215246079685959813
+    second: Swamp Kingdom - Tileset_19
+  - first:
+      213: -1095164214087726678
+    second: Swamp Kingdom - Tileset_20
+  - first:
+      213: -4087223566057077652
+    second: Swamp Kingdom - Tileset_21
+  - first:
+      213: 2582913440687242312
+    second: Swamp Kingdom - Tileset_22
+  - first:
+      213: 1626504499256089209
+    second: Swamp Kingdom - Tileset_23
+  - first:
+      213: -7190817867203403758
+    second: Swamp Kingdom - Tileset_24
+  - first:
+      213: 7311471335982258319
+    second: Swamp Kingdom - Tileset_25
+  - first:
+      213: 5631896821044427631
+    second: Swamp Kingdom - Tileset_26
+  - first:
+      213: -1046752214221865932
+    second: Swamp Kingdom - Tileset_27
+  - first:
+      213: 7502066460139699101
+    second: Swamp Kingdom - Tileset_28
+  - first:
+      213: -5926508079957517835
+    second: Swamp Kingdom - Tileset_29
+  - first:
+      213: -5803852256913524928
+    second: Swamp Kingdom - Tileset_30
+  - first:
+      213: -4630415549111877241
+    second: Swamp Kingdom - Tileset_31
+  - first:
+      213: -8174207118324623023
+    second: Swamp Kingdom - Tileset_32
+  - first:
+      213: 2008869837928729432
+    second: Swamp Kingdom - Tileset_33
+  - first:
+      213: -7263482178549747618
+    second: Swamp Kingdom - Tileset_34
+  - first:
+      213: 1045742577596160606
+    second: Swamp Kingdom - Tileset_35
+  - first:
+      213: -5382731503005182695
+    second: Swamp Kingdom - Tileset_36
+  - first:
+      213: 857521474939838162
+    second: Swamp Kingdom - Tileset_37
+  - first:
+      213: -1901989459678485122
+    second: Swamp Kingdom - Tileset_38
+  - first:
+      213: -3520110854526564483
+    second: Swamp Kingdom - Tileset_39
+  - first:
+      213: -8020248011554458887
+    second: Swamp Kingdom - Tileset_40
+  - first:
+      213: -3506189905817509349
+    second: Swamp Kingdom - Tileset_41
+  - first:
+      213: -4022801634114064507
+    second: Swamp Kingdom - Tileset_42
+  - first:
+      213: -5222715299601286958
+    second: Swamp Kingdom - Tileset_43
+  - first:
+      213: -6021586620149550353
+    second: Swamp Kingdom - Tileset_44
+  - first:
+      213: 8339009725017169838
+    second: Swamp Kingdom - Tileset_45
+  - first:
+      213: -1404447928765132487
+    second: Swamp Kingdom - Tileset_46
+  - first:
+      213: -3038462155763489741
+    second: Swamp Kingdom - Tileset_47
+  - first:
+      213: -716122263303637055
+    second: Swamp Kingdom - Tileset_48
+  - first:
+      213: -4688380197030722217
+    second: Swamp Kingdom - Tileset_49
+  - first:
+      213: 3789322523785477194
+    second: Swamp Kingdom - Tileset_50
+  - first:
+      213: -5806142236612458737
+    second: Swamp Kingdom - Tileset_51
+  - first:
+      213: 5761223396285566868
+    second: Swamp Kingdom - Tileset_52
+  - first:
+      213: -5377311734054107801
+    second: Swamp Kingdom - Tileset_53
+  - first:
+      213: 3790397866886373383
+    second: Swamp Kingdom - Tileset_54
+  - first:
+      213: 5095291642955281060
+    second: Swamp Kingdom - Tileset_55
+  - first:
+      213: 6481220659141660928
+    second: Swamp Kingdom - Tileset_56
+  - first:
+      213: -6124474965644556747
+    second: Swamp Kingdom - Tileset_57
+  - first:
+      213: -7741165475769018674
+    second: Swamp Kingdom - Tileset_58
+  - first:
+      213: 7384631523763932267
+    second: Swamp Kingdom - Tileset_59
+  - first:
+      213: -2528320782710647846
+    second: Swamp Kingdom - Tileset_60
+  - first:
+      213: 6339372856486926363
+    second: Swamp Kingdom - Tileset_61
+  - first:
+      213: 7457528337553238896
+    second: Swamp Kingdom - Tileset_62
+  - first:
+      213: 1027594781491957836
+    second: Swamp Kingdom - Tileset_63
+  - first:
+      213: 5203904588911545030
+    second: Swamp Kingdom - Tileset_64
+  - first:
+      213: -8165486975215665254
+    second: Swamp Kingdom - Tileset_65
+  - first:
+      213: -4511244823144162465
+    second: Swamp Kingdom - Tileset_66
+  - first:
+      213: 2357736531605710391
+    second: Swamp Kingdom - Tileset_67
+  - first:
+      213: -2391678478480824259
+    second: Swamp Kingdom - Tileset_68
+  - first:
+      213: -3899216807422220312
+    second: Swamp Kingdom - Tileset_69
+  - first:
+      213: -2434663174664548709
+    second: Swamp Kingdom - Tileset_70
+  - first:
+      213: 9191333014437501377
+    second: Swamp Kingdom - Tileset_71
+  - first:
+      213: 2072105326129785482
+    second: Swamp Kingdom - Tileset_72
+  - first:
+      213: 1294752194463131684
+    second: Swamp Kingdom - Tileset_73
+  - first:
+      213: -136351299984625175
+    second: Swamp Kingdom - Tileset_74
+  - first:
+      213: 7122517263401547116
+    second: Swamp Kingdom - Tileset_75
+  - first:
+      213: 5350432985946172036
+    second: Swamp Kingdom - Tileset_76
+  - first:
+      213: -2508334996840411625
+    second: Swamp Kingdom - Tileset_77
+  - first:
+      213: -9065370795214831437
+    second: Swamp Kingdom - Tileset_78
+  - first:
+      213: -712945132205265057
+    second: Swamp Kingdom - Tileset_79
+  - first:
+      213: 5722147290897053816
+    second: Swamp Kingdom - Tileset_80
+  - first:
+      213: -4816098765090554240
+    second: Swamp Kingdom - Tileset_81
+  - first:
+      213: 8817528652998711602
+    second: Swamp Kingdom - Tileset_82
+  - first:
+      213: -8121515679385922575
+    second: Swamp Kingdom - Tileset_83
+  - first:
+      213: -6048824214153686491
+    second: Swamp Kingdom - Tileset_84
+  - first:
+      213: -1400035672670433829
+    second: Swamp Kingdom - Tileset_85
+  - first:
+      213: 808776211879278115
+    second: Swamp Kingdom - Tileset_86
+  - first:
+      213: -2023184545008762256
+    second: Swamp Kingdom - Tileset_87
+  - first:
+      213: -5378452676296528155
+    second: Swamp Kingdom - Tileset_88
+  - first:
+      213: -103940713129445109
+    second: Swamp Kingdom - Tileset_89
+  - first:
+      213: -4175388171765243271
+    second: Swamp Kingdom - Tileset_90
+  - first:
+      213: 7849564103512686068
+    second: Swamp Kingdom - Tileset_91
+  - first:
+      213: 8855240254104935006
+    second: Swamp Kingdom - Tileset_92
+  - first:
+      213: 8807833704638282542
+    second: Swamp Kingdom - Tileset_93
+  - first:
+      213: 7946173323476793758
+    second: Swamp Kingdom - Tileset_94
+  - first:
+      213: 7872597991791227201
+    second: Swamp Kingdom - Tileset_95
+  - first:
+      213: -3601912399145448329
+    second: Swamp Kingdom - Tileset_96
+  - first:
+      213: -4433405115885889540
+    second: Swamp Kingdom - Tileset_97
+  - first:
+      213: 1422851936541815942
+    second: Swamp Kingdom - Tileset_98
+  - first:
+      213: 3605172060899095349
+    second: Swamp Kingdom - Tileset_99
+  - first:
+      213: 7198214242943323200
+    second: Swamp Kingdom - Tileset_100
+  - first:
+      213: -2792256147642793268
+    second: Swamp Kingdom - Tileset_101
+  - first:
+      213: -3314022298780012108
+    second: Swamp Kingdom - Tileset_102
+  - first:
+      213: 302761398390383288
+    second: Swamp Kingdom - Tileset_103
+  - first:
+      213: -5579921856930100846
+    second: Swamp Kingdom - Tileset_104
+  - first:
+      213: -1990067422394221151
+    second: Swamp Kingdom - Tileset_105
+  - first:
+      213: -254670922014420018
+    second: Swamp Kingdom - Tileset_106
+  - first:
+      213: -316198727989860884
+    second: Swamp Kingdom - Tileset_107
+  - first:
+      213: 2409981523563857043
+    second: Swamp Kingdom - Tileset_108
+  - first:
+      213: -1385032839046074021
+    second: Swamp Kingdom - Tileset_109
+  - first:
+      213: 480056185494966366
+    second: Swamp Kingdom - Tileset_110
+  - first:
+      213: -4823279508695501429
+    second: Swamp Kingdom - Tileset_111
+  - first:
+      213: -4015884865253751365
+    second: Swamp Kingdom - Tileset_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 353
+        width: 409
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bb61d0ea33b78f0800000000000000
+      internalID: -541782507531093159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 492
+        width: 281
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85fdf8a08f759ec0800000000000000
+      internalID: -3560799739798751857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 517
+        width: 201
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3343c2932fb4a5470800000000000000
+      internalID: 8384097160016966707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 351
+        width: 146
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311f01c415874ae60800000000000000
+      internalID: 7972629530916483347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 515
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffde74f47d1f73e0800000000000000
+      internalID: -2053890516902289415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 489
+        width: 11
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac3dc7f54bacd9b0800000000000000
+      internalID: -5053976364818023258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 523
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18079bd738f20bd60800000000000000
+      internalID: 7903869587831746689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 470
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acad67d3bbeae3260800000000000000
+      internalID: 7079287783486315210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 497
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a618eb8f90c4cc0800000000000000
+      internalID: -3725591827789551102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 497
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b0fe66f0347de30800000000000000
+      internalID: 4528161683774835462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 554
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a293d6b2858615f70800000000000000
+      internalID: 9174228643825400106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 509
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8be35bc4445d2d50800000000000000
+      internalID: 6714115273925061514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 495
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa6fdbc22d8d5310800000000000000
+      internalID: 1395426640143543035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 540
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795f05dc7bf39c570800000000000000
+      internalID: 8487385031412610455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 539
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0455ad62aa966d7b0800000000000000
+      internalID: -5199852540235459264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 539
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fdcc377d2ed2ed0800000000000000
+      internalID: -2437042408348917952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 518
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439c7f8200bc52500800000000000000
+      internalID: 370925745875700020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 518
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f687f6f2fc84959c0800000000000000
+      internalID: -3938036344467523473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 518
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2dcf131eaf0b500800000000000000
+      internalID: 410103411203953336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 518
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fd5ed77359dfd80800000000000000
+      internalID: -8215246079685959813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 477
+        width: 139
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9c49023f13dc0f0800000000000000
+      internalID: -1095164214087726678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 459
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64009b52d34747c0800000000000000
+      internalID: -4087223566057077652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 502
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cbeb5e61a58d320800000000000000
+      internalID: 2582913440687242312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 502
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97adbb77931829610800000000000000
+      internalID: 1626504499256089209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 502
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2102fc49f35153c90800000000000000
+      internalID: -7190817867203403758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 502
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f885ca63170977560800000000000000
+      internalID: 7311471335982258319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 444
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b3106d154882e40800000000000000
+      internalID: 5631896821044427631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 473
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cb37738603971f0800000000000000
+      internalID: -1046752214221865932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 473
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bbff5a2b1bc1860800000000000000
+      internalID: 7502066460139699101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 468
+        width: 84
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f956af1d40d0cda0800000000000000
+      internalID: -5926508079957517835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 460
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047f1d95f13947fa0800000000000000
+      internalID: -5803852256913524928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 422
+        width: 14
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781cdb057957dbfb0800000000000000
+      internalID: -4630415549111877241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 481
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1599ac74fe16f8e80800000000000000
+      internalID: -8174207118324623023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 480
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b0db16970f0eb10800000000000000
+      internalID: 2008869837928729432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 462
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e507923317de23b90800000000000000
+      internalID: -7263482178549747618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 463
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ade107559338e00800000000000000
+      internalID: 1045742577596160606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 462
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915521a8732bc45b0800000000000000
+      internalID: -5382731503005182695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 482
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dede05fc3786eb00800000000000000
+      internalID: 857521474939838162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 482
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75a351e9a6ca95e0800000000000000
+      internalID: -1901989459678485122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 427
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7782f104dd062fc0800000000000000
+      internalID: -3520110854526564483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 435
+        width: 195
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f273c43dea52b090800000000000000
+      internalID: -8020248011554458887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 461
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12efa47bd2875fc0800000000000000
+      internalID: -3506189905817509349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 459
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f25cc3a332c28c0800000000000000
+      internalID: -4022801634114064507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 461
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8744c2b103587b0800000000000000
+      internalID: -5222715299601286958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 463
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2bdb96fd60f6ca0800000000000000
+      internalID: -6021586620149550353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 463
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf1d26b92d1ab370800000000000000
+      internalID: 8339009725017169838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 438
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931db64cc06628ce0800000000000000
+      internalID: -1404447928765132487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 418
+        width: 108
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334ef3e84c635d5d0800000000000000
+      internalID: -3038462155763489741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 435
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7b9008892df06f0800000000000000
+      internalID: -716122263303637055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 429
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75502080d078feeb0800000000000000
+      internalID: -4688380197030722217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 430
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cbe9932c0669430800000000000000
+      internalID: 3789322523785477194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 429
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f078257e5607c6fa0800000000000000
+      internalID: -5806142236612458737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 366
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f4547972af3ff40800000000000000
+      internalID: 5761223396285566868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 379
+        width: 88
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7654a25d773ff55b0800000000000000
+      internalID: -5377311734054107801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 357
+        width: 137
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700292d07c23a9430800000000000000
+      internalID: 3790397866886373383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 393
+        width: 195
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2bd55d0cc16b640800000000000000
+      internalID: 5095291642955281060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 347
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001df0bb9dbe1f950800000000000000
+      internalID: 6481220659141660928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 353
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536cbf4b77e710ba0800000000000000
+      internalID: -6124474965644556747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 352
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec61545a30bd19490800000000000000
+      internalID: -7741165475769018674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 386
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cc913de3b7b7660800000000000000
+      internalID: 7384631523763932267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 386
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad35b4cc4a999ecd0800000000000000
+      internalID: -2528320782710647846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 386
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1818a9860af9f750800000000000000
+      internalID: 6339372856486926363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 386
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b2546e2867e7760800000000000000
+      internalID: 7457528337553238896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 386
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c409fd36200c24e00800000000000000
+      internalID: 1027594781491957836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 386
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca0913f6abf73840800000000000000
+      internalID: 5203904588911545030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 396
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ff030dbdc5eae80800000000000000
+      internalID: -8165486975215665254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 397
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b1ca52cb6d461c0800000000000000
+      internalID: -4511244823144162465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 396
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736e15832ec58b020800000000000000
+      internalID: 2357736531605710391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 346
+        width: 137
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d382431781d0fced0800000000000000
+      internalID: -2391678478480824259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 272
+        width: 20
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7ad5bf8f233e9c0800000000000000
+      internalID: -3899216807422220312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 272
+        width: 24
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e0566fdb6563ed0800000000000000
+      internalID: -2434663174664548709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 363
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c91ed9cdac2e8f70800000000000000
+      internalID: 9191333014437501377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 364
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a292dc0d891cc10800000000000000
+      internalID: 2072105326129785482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 363
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428e12fc242e7f110800000000000000
+      internalID: 1294752194463131684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 257
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1f0cf07359b1ef0800000000000000
+      internalID: -136351299984625175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 257
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65f2afd6b348d260800000000000000
+      internalID: 7122517263401547116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 257
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48aaad1f37e804a40800000000000000
+      internalID: 5350432985946172036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 257
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e85af2c9a903dd0800000000000000
+      internalID: -2508334996840411625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 256
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0050aca45513280800000000000000
+      internalID: -9065370795214831437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 271
+        width: 227
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5faf8afd2c1b16f0800000000000000
+      internalID: -712945132205265057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 320
+        width: 73
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878f162d4a6296f40800000000000000
+      internalID: 5722147290897053816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 213
+        width: 46
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e749f90b7c92db0800000000000000
+      internalID: -4816098765090554240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 301
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23911d6b7972e5a70800000000000000
+      internalID: 8817528652998711602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 302
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3df6ce4849a4f80800000000000000
+      internalID: -8121515679385922575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 302
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522969edc624e0ca0800000000000000
+      internalID: -6048824214153686491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 302
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd8a9139f2129ce0800000000000000
+      internalID: -1400035672670433829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 302
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326b9dbfda9593b00800000000000000
+      internalID: 808776211879278115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 312
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07241b720643ce3e0800000000000000
+      internalID: -2023184545008762256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 283
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eea81489c5eb55b0800000000000000
+      internalID: -5378452676296528155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 312
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09f73cd87abe8ef0800000000000000
+      internalID: -103940713129445109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 281
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972a096749a0e06c0800000000000000
+      internalID: -4175388171765243271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 284
+        width: 123
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdf78f96f04fec60800000000000000
+      internalID: 7849564103512686068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 272
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a1aa2181224ea70800000000000000
+      internalID: 8855240254104935006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 272
+        width: 9
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b7da5a616bb3a70800000000000000
+      internalID: 8807833704638282542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 302
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99f48d798a764e60800000000000000
+      internalID: 7946173323476793758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 302
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1417b28a926114d60800000000000000
+      internalID: 7872597991791227201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 271
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c4cd8b1cf630ec0800000000000000
+      internalID: -3601912399145448329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 293
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7d83a49816972c0800000000000000
+      internalID: -4433405115885889540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 291
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6843d853c4cfeb310800000000000000
+      internalID: 1422851936541815942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 229
+        width: 144
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533bd0c63e4280230800000000000000
+      internalID: 3605172060899095349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 273
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c4bc757b135e360800000000000000
+      internalID: 7198214242943323200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 173
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2c9d5e3d9ef39d0800000000000000
+      internalID: -2792256147642793268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_102
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 202
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b17e77174a3202d0800000000000000
+      internalID: -3314022298780012108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_103
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 225
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b262c243ef933400800000000000000
+      internalID: 302761398390383288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_104
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 245
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2994e3382a22092b0800000000000000
+      internalID: -5579921856930100846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_105
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 36
+        width: 255
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad7d11293cd164e0800000000000000
+      internalID: -1990067422394221151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_106
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 37
+        width: 148
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec395be452a377cf0800000000000000
+      internalID: -254670922014420018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_107
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 225
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5ebb3aee2ac9bf0800000000000000
+      internalID: -316198727989860884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_108
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 189
+        width: 82
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39447435d69f17120800000000000000
+      internalID: 2409981523563857043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_109
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 166
+        width: 145
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51786a98ff57cce0800000000000000
+      internalID: -1385032839046074021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_110
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 6
+        width: 149
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5018a8ae8089a600800000000000000
+      internalID: 480056185494966366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_111
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 103
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85b8c777d4401db0800000000000000
+      internalID: -4823279508695501429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swamp Kingdom - Tileset_112
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 32
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5ceabfdf5b448c0800000000000000
+      internalID: -4015884865253751365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 34b72a3ac52d9d7458ab8447755b61ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Swamp Kingdom - Tileset_0: -541782507531093159
+      Swamp Kingdom - Tileset_1: -3560799739798751857
+      Swamp Kingdom - Tileset_10: 9174228643825400106
+      Swamp Kingdom - Tileset_100: 7198214242943323200
+      Swamp Kingdom - Tileset_101: -2792256147642793268
+      Swamp Kingdom - Tileset_102: -3314022298780012108
+      Swamp Kingdom - Tileset_103: 302761398390383288
+      Swamp Kingdom - Tileset_104: -5579921856930100846
+      Swamp Kingdom - Tileset_105: -1990067422394221151
+      Swamp Kingdom - Tileset_106: -254670922014420018
+      Swamp Kingdom - Tileset_107: -316198727989860884
+      Swamp Kingdom - Tileset_108: 2409981523563857043
+      Swamp Kingdom - Tileset_109: -1385032839046074021
+      Swamp Kingdom - Tileset_11: 6714115273925061514
+      Swamp Kingdom - Tileset_110: 480056185494966366
+      Swamp Kingdom - Tileset_111: -4823279508695501429
+      Swamp Kingdom - Tileset_112: -4015884865253751365
+      Swamp Kingdom - Tileset_12: 1395426640143543035
+      Swamp Kingdom - Tileset_13: 8487385031412610455
+      Swamp Kingdom - Tileset_14: -5199852540235459264
+      Swamp Kingdom - Tileset_15: -2437042408348917952
+      Swamp Kingdom - Tileset_16: 370925745875700020
+      Swamp Kingdom - Tileset_17: -3938036344467523473
+      Swamp Kingdom - Tileset_18: 410103411203953336
+      Swamp Kingdom - Tileset_19: -8215246079685959813
+      Swamp Kingdom - Tileset_2: 8384097160016966707
+      Swamp Kingdom - Tileset_20: -1095164214087726678
+      Swamp Kingdom - Tileset_21: -4087223566057077652
+      Swamp Kingdom - Tileset_22: 2582913440687242312
+      Swamp Kingdom - Tileset_23: 1626504499256089209
+      Swamp Kingdom - Tileset_24: -7190817867203403758
+      Swamp Kingdom - Tileset_25: 7311471335982258319
+      Swamp Kingdom - Tileset_26: 5631896821044427631
+      Swamp Kingdom - Tileset_27: -1046752214221865932
+      Swamp Kingdom - Tileset_28: 7502066460139699101
+      Swamp Kingdom - Tileset_29: -5926508079957517835
+      Swamp Kingdom - Tileset_3: 7972629530916483347
+      Swamp Kingdom - Tileset_30: -5803852256913524928
+      Swamp Kingdom - Tileset_31: -4630415549111877241
+      Swamp Kingdom - Tileset_32: -8174207118324623023
+      Swamp Kingdom - Tileset_33: 2008869837928729432
+      Swamp Kingdom - Tileset_34: -7263482178549747618
+      Swamp Kingdom - Tileset_35: 1045742577596160606
+      Swamp Kingdom - Tileset_36: -5382731503005182695
+      Swamp Kingdom - Tileset_37: 857521474939838162
+      Swamp Kingdom - Tileset_38: -1901989459678485122
+      Swamp Kingdom - Tileset_39: -3520110854526564483
+      Swamp Kingdom - Tileset_4: -2053890516902289415
+      Swamp Kingdom - Tileset_40: -8020248011554458887
+      Swamp Kingdom - Tileset_41: -3506189905817509349
+      Swamp Kingdom - Tileset_42: -4022801634114064507
+      Swamp Kingdom - Tileset_43: -5222715299601286958
+      Swamp Kingdom - Tileset_44: -6021586620149550353
+      Swamp Kingdom - Tileset_45: 8339009725017169838
+      Swamp Kingdom - Tileset_46: -1404447928765132487
+      Swamp Kingdom - Tileset_47: -3038462155763489741
+      Swamp Kingdom - Tileset_48: -716122263303637055
+      Swamp Kingdom - Tileset_49: -4688380197030722217
+      Swamp Kingdom - Tileset_5: -5053976364818023258
+      Swamp Kingdom - Tileset_50: 3789322523785477194
+      Swamp Kingdom - Tileset_51: -5806142236612458737
+      Swamp Kingdom - Tileset_52: 5761223396285566868
+      Swamp Kingdom - Tileset_53: -5377311734054107801
+      Swamp Kingdom - Tileset_54: 3790397866886373383
+      Swamp Kingdom - Tileset_55: 5095291642955281060
+      Swamp Kingdom - Tileset_56: 6481220659141660928
+      Swamp Kingdom - Tileset_57: -6124474965644556747
+      Swamp Kingdom - Tileset_58: -7741165475769018674
+      Swamp Kingdom - Tileset_59: 7384631523763932267
+      Swamp Kingdom - Tileset_6: 7903869587831746689
+      Swamp Kingdom - Tileset_60: -2528320782710647846
+      Swamp Kingdom - Tileset_61: 6339372856486926363
+      Swamp Kingdom - Tileset_62: 7457528337553238896
+      Swamp Kingdom - Tileset_63: 1027594781491957836
+      Swamp Kingdom - Tileset_64: 5203904588911545030
+      Swamp Kingdom - Tileset_65: -8165486975215665254
+      Swamp Kingdom - Tileset_66: -4511244823144162465
+      Swamp Kingdom - Tileset_67: 2357736531605710391
+      Swamp Kingdom - Tileset_68: -2391678478480824259
+      Swamp Kingdom - Tileset_69: -3899216807422220312
+      Swamp Kingdom - Tileset_7: 7079287783486315210
+      Swamp Kingdom - Tileset_70: -2434663174664548709
+      Swamp Kingdom - Tileset_71: 9191333014437501377
+      Swamp Kingdom - Tileset_72: 2072105326129785482
+      Swamp Kingdom - Tileset_73: 1294752194463131684
+      Swamp Kingdom - Tileset_74: -136351299984625175
+      Swamp Kingdom - Tileset_75: 7122517263401547116
+      Swamp Kingdom - Tileset_76: 5350432985946172036
+      Swamp Kingdom - Tileset_77: -2508334996840411625
+      Swamp Kingdom - Tileset_78: -9065370795214831437
+      Swamp Kingdom - Tileset_79: -712945132205265057
+      Swamp Kingdom - Tileset_8: -3725591827789551102
+      Swamp Kingdom - Tileset_80: 5722147290897053816
+      Swamp Kingdom - Tileset_81: -4816098765090554240
+      Swamp Kingdom - Tileset_82: 8817528652998711602
+      Swamp Kingdom - Tileset_83: -8121515679385922575
+      Swamp Kingdom - Tileset_84: -6048824214153686491
+      Swamp Kingdom - Tileset_85: -1400035672670433829
+      Swamp Kingdom - Tileset_86: 808776211879278115
+      Swamp Kingdom - Tileset_87: -2023184545008762256
+      Swamp Kingdom - Tileset_88: -5378452676296528155
+      Swamp Kingdom - Tileset_89: -103940713129445109
+      Swamp Kingdom - Tileset_9: 4528161683774835462
+      Swamp Kingdom - Tileset_90: -4175388171765243271
+      Swamp Kingdom - Tileset_91: 7849564103512686068
+      Swamp Kingdom - Tileset_92: 8855240254104935006
+      Swamp Kingdom - Tileset_93: 8807833704638282542
+      Swamp Kingdom - Tileset_94: 7946173323476793758
+      Swamp Kingdom - Tileset_95: 7872597991791227201
+      Swamp Kingdom - Tileset_96: -3601912399145448329
+      Swamp Kingdom - Tileset_97: -4433405115885889540
+      Swamp Kingdom - Tileset_98: 1422851936541815942
+      Swamp Kingdom - Tileset_99: 3605172060899095349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
