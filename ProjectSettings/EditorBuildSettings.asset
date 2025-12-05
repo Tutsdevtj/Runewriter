@@ -12,11 +12,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Kz_Dungeon.unity
     guid: 097eaa9faca58e04f831e688c49bc970
   - enabled: 1
+    path: Assets/Scenes/Runes_Room.unity
+    guid: c7c6fcab24d97034aa2b6a80d791e414
+  - enabled: 1
     path: Assets/Scenes/Kz_Cave.unity
     guid: 96d5de539df358a468a36b394b727d93
   - enabled: 1
-    path: Assets/Scenes/Runes_Room.unity
-    guid: c7c6fcab24d97034aa2b6a80d791e414
+    path: Assets/Scenes/Kz_Swamp.unity
+    guid: c982a28df7b78264485c28076154e769
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
