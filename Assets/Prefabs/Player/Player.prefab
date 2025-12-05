@@ -167,8 +167,9 @@ GameObject:
   - component: {fileID: 8834185510752802576}
   - component: {fileID: 886760958694972130}
   - component: {fileID: 8628044742004857674}
-  - component: {fileID: 4508673093721829040}
   - component: {fileID: 9209281343244226094}
+  - component: {fileID: 2776859224338743624}
+  - component: {fileID: 6164588416660550338}
   m_Layer: 7
   m_Name: Player
   m_TagString: Player
@@ -313,27 +314,6 @@ CapsuleCollider2D:
   m_Offset: {x: -0.0014595985, y: -0.16536337}
   m_Size: {x: 0.6856556, y: 1.7617096}
   m_Direction: 0
---- !u!114 &4508673093721829040
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2357986309199870306}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 40d79845c990db54eba809b1cef00a0b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  healthBar: {fileID: 0}
-  currentHp: 0
-  maxHp: 100
-  isDead: 0
-  knockbackPower: {x: 1.5, y: 2.5}
-  heavyKnockbackPower: {x: 2.5, y: 3.5}
-  knockbackDuration: 0.2
-  heavyKnockbackDuration: 0.4
-  heavyDamageThreshold: 0.3
 --- !u!114 &9209281343244226094
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -350,6 +330,43 @@ MonoBehaviour:
   onDamageVfxDuration: 0.2
   hitVfxColor: {r: 1, g: 1, b: 0, a: 1}
   hitVfx: {fileID: 8640566816047615503, guid: 90195e6662c4e1941ae45393c6580581, type: 3}
+--- !u!114 &2776859224338743624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2357986309199870306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 199952f1e0b73234c99bbe3e7af45721, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  txtVerde: {fileID: 0}
+  txtAzul: {fileID: 0}
+--- !u!114 &6164588416660550338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2357986309199870306}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c55801d7d0eb5b74ebcbfc6ac5eb709e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthBar: {fileID: 0}
+  currentHp: 0
+  maxHp: 100
+  isDead: 0
+  knockbackPower: {x: 1.5, y: 2.5}
+  heavyKnockbackPower: {x: 7, y: 7}
+  knockbackDuration: 0.2
+  heavyKnockbackDuration: 0.5
+  heavyDamageThreshold: 0.3
+  iFrameDuration: 1
+  flashDuration: 0.1
 --- !u!1 &3130395355081938557
 GameObject:
   m_ObjectHideFlags: 0

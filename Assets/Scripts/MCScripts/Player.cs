@@ -47,6 +47,11 @@ public class Player : Entity
 
     public bool canDash { get; set; }
 
+    [Header("Game Over Settings")]
+    public GameObject gameOverUI; 
+    public float delayAfterDeath = 1.5f; 
+
+
     protected override void Awake()
     {
         base.Awake();
@@ -64,13 +69,18 @@ public class Player : Entity
         deadState = new Player_DeadState(this, stateMachine, "dead");
     }
 
+
+
     protected override void Start()
     {
         base.Start();
 
-        OnPlayerDeath?.Invoke();
+
         stateMachine.Initialize(idleState);
     }
+
+
+   
 
 
     public override void EntityDeath()
@@ -88,11 +98,30 @@ public class Player : Entity
         queuedAttackCo = StartCoroutine(EnterAttackStateWithDelayCo());
     }
 
+    public void TriggerDeathSequence()
+    {
+  
+        StartCoroutine(ShowGameOverUI());
+    }
+
+    private IEnumerator ShowGameOverUI()
+    {
+
+    yield return new WaitForSeconds(delayAfterDeath);
+    
+    if (gameOverUI != null)
+    {
+        gameOverUI.SetActive(true);
+    }
+
+    }
+
     private IEnumerator EnterAttackStateWithDelayCo()
     {
         yield return new WaitForEndOfFrame();
         stateMachine.ChangeState(basicAttackState);
     }
+
 
     private void OnEnable()
     {
@@ -106,4 +135,8 @@ public class Player : Entity
     {
         input.Disable();
     }
+
+
+
+
 }

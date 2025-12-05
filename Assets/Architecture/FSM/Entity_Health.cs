@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -7,7 +8,7 @@ public class Entity_Health : MonoBehaviour, IDamgable
     private EntityVfx entityVfx;
     private Entity entity;
 
-    [SerializeField] protected float currentHp;
+    [SerializeField] public float currentHp;
     [SerializeField] protected float maxHp = 100;
     [SerializeField] protected bool isDead;
 
@@ -18,6 +19,7 @@ public class Entity_Health : MonoBehaviour, IDamgable
     [SerializeField] private float heavyKnockbackDuration = .5f;
     [Header("On Heavy Damage ")]
     [SerializeField] private float heavyDamageThreshold = .3f; // Percentage of health you should lose to consider damage as heavy
+
 
     protected virtual void Awake()
     {
@@ -56,7 +58,7 @@ public class Entity_Health : MonoBehaviour, IDamgable
         entity?.EntityDeath();
     }
 
-    private void UpdateHealthBar()
+    public void UpdateHealthBar()
     {
         if (healthBar == null)
             return;

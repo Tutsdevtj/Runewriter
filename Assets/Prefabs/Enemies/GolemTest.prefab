@@ -201,7 +201,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerCheck: {fileID: 1197303276454873368}
-  playerCheckDistance: 4
+  playerCheckDistance: 10
 --- !u!114 &3924508492126663089
 MonoBehaviour:
   m_ObjectHideFlags: 0
