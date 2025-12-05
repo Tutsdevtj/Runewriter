@@ -12824,7 +12824,6 @@ Transform:
   - {fileID: 671844057}
   - {fileID: 415156238}
   - {fileID: 621443637}
-  - {fileID: 645475834}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1212951793
@@ -38298,6 +38297,7 @@ GameObject:
   - component: {fileID: 1285083748}
   - component: {fileID: 1285083747}
   - component: {fileID: 1285083746}
+  - component: {fileID: 1285083750}
   m_Layer: 0
   m_Name: MagicBook
   m_TagString: Untagged
@@ -38435,6 +38435,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 1.845, z: 0}
+--- !u!114 &1285083750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1285083745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0086c5427af2167408e8a132a4c7c60d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactionUI: {fileID: 0}
 --- !u!1 &1324971402
 GameObject:
   m_ObjectHideFlags: 0
@@ -38465,6 +38478,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1997650235}
+  - {fileID: 2078136112}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1348571829
