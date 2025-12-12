@@ -15,7 +15,13 @@ public class UI_RuneColector : MonoBehaviour
 
     public void AtualizarUI()
     {
-        txtVerde.text = "x" + PlayerInventory.Instance.runaVerde;
-        txtAzul.text = "x" + PlayerInventory.Instance.runaAzul;
+        if (GameState.Instance == null)
+        {
+          
+            return;
+        }
+
+        txtVerde.text = "x" + GameState.Instance.runaVerde;
+        txtAzul.text = "x" + GameState.Instance.runaAzul;
     }
 }

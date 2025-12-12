@@ -8,13 +8,26 @@ public class RunaPickup : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
+            if (GameState.Instance == null)
+            {
+                Debug.LogError("ERRO: O objeto GameState não está na cena!");
+                return;
+            }
+
             if (tipo == RunaTipo.Verde)
-                PlayerInventory.Instance.runaVerde++;
+                GameState.Instance.runaVerde++;
 
             if (tipo == RunaTipo.Azul)
-                PlayerInventory.Instance.runaAzul++;
+                GameState.Instance.runaAzul++;
 
-            UI_RuneColector.Instance.AtualizarUI();
+            if (UI_RuneColector.Instance != null)
+            {
+                UI_RuneColector.Instance.AtualizarUI();
+            }
+            else
+            {
+                Debug.LogWarning("Avisando: UI_RuneColector não foi encontrado, mas a runa foi pega.");
+            }
 
             Destroy(gameObject);
         }
