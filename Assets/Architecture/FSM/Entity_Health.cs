@@ -56,6 +56,16 @@ public class Entity_Health : MonoBehaviour, IDamgable
     {
         isDead = true;
         entity?.EntityDeath();
+
+        if (gameObject.CompareTag("Boss"))
+        {
+            
+            if (UI_Vitoria.Instance != null)
+            {
+                UI_Vitoria.Instance.MostrarVitoria();
+            }
+
+        }
     }
 
     public void UpdateHealthBar()

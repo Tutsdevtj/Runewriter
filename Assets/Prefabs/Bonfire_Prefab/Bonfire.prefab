@@ -173,6 +173,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5281b8dc602724549aae1a84bd98799c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  audioSource: {fileID: 0}
+  healSound: {fileID: 8300000, guid: 10a6f28e07894df4cac62c5815276754, type: 3}
 --- !u!61 &4140375010435771710
 BoxCollider2D:
   m_ObjectHideFlags: 0
