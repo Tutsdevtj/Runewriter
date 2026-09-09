@@ -4,6 +4,9 @@ Runewriter é um jogo de ação e plataforma 2D feito em Unity e C#. Você atrav
 
 O combate tem combos e ataques aéreos, e a movimentação conta com pulo duplo, dash e deslize nas paredes. Entre uma luta e outra, as fogueiras permitem recuperar a vida.
 
+<img width="803" height="582" alt="image" src="https://github.com/user-attachments/assets/f1d67a73-3d0d-4481-96cc-f359934cc33c" />
+
+
 ## As runas
 
 As runas fazem parte da progressão entre as áreas. Na sala de runas, a escolha no livro leva ao pântano ou à caverna: verde para o pântano, azul para a caverna. Reunir as duas cores permite liberar uma passagem bloqueada.
